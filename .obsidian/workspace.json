@@ -25,14 +25,12 @@
             "id": "69808d1fa50243fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Campaign Overview/Mechanics/Equipment Rules/Equipment Durability.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "Equipment Durability"
+              "title": "Dungeon Of The Mad Mage"
             }
           },
           {
@@ -202,7 +200,7 @@
             }
           },
           {
-            "id": "adf12a29914a0b62",
+            "id": "7a7fc2c1a3c64a8e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -231,11 +229,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0e2d89852572e8a",
+  "active": "7a7fc2c1a3c64a8e",
   "lastOpenFiles": [
+    "Vault.md",
+    "Campaign Overview/Mechanics/Equipment Rules/Equipment Durability.md",
     "DungeonOftheMadMage",
     "Campaign Overview/Mechanics/Combat Systems/Pommel Strike and Bonus Actions.md",
-    "Campaign Overview/Mechanics/Equipment Rules/Equipment Durability.md",
     "Campaign Overview/Mechanics/Combat Systems/Combat Systems.md",
     "Campaign Overview/Mechanics/To-Do.md",
     "Campaign Overview/Mechanics/Combat Systems/.md",
@@ -250,12 +249,10 @@
     "Campaign Overview/Mechanics/Downtime Activities/Downtime Activities.md",
     "Campaign Overview/Mechanics/Downtime Activities",
     "Campaign Overview/Campaign Overview.md",
-    "Vault.md",
     "Tags",
     "Campaign Overview/Mechanics/Character Development",
     "Campaign Overview/Mechanics/Core Mechanics",
     "Campaign Overview/Mechanics/Combat",
-    "Campaign Overview/Mechanics/Downtime",
     "Untitled.canvas",
     "Campaign Overview/NPCs/Template.md",
     "Campaign Overview/Enemies/Template.md",
