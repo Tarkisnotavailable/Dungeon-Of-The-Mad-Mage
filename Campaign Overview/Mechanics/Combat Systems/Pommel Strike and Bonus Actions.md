@@ -1,0 +1,1 @@
+Pommel Strike is to be removed and maybe gained from another source as a mastery benefit. Characters will get different skills to consume their Bonus Action, most probably from masteries or magic items.

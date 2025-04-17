@@ -1,0 +1,1 @@
+Located in [[Floor1]] of the Battle Without Dawn dungeon.

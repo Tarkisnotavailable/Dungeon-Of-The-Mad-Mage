@@ -1,0 +1,1 @@
+As characters use their equipments they will wear down, 

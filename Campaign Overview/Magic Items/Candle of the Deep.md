@@ -1,0 +1,1 @@
+A jet-black candle burns with blue flame. It never melts, doesn't produce heat, and can burn underwater. If picked up, the holder can see through magical darkness as long as they are holding it. However, for the next long rest, they hear whispers from the Deep Ones and must succeed on a DC 13 Wisdom saving throw or suffer one level of exhaustion from nightmarish visions.

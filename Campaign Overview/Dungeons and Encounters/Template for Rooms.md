@@ -1,0 +1,15 @@
+##### Template
+- **Atmosphere & Details:**
+	- 
+- **Combat & Puzzle**
+	- 
+- **Loot & Interactions**
+	- 
+- **Environmental Hazards & Traps**
+	- 
+- **NPCs & Factions**
+	- 
+- **Secrets & Lore**
+	- 
+- **Consequences & Choices**
+	- 

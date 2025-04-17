@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "dce140154623fbd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d12f89c85bce7103",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a2f2d2abeed081e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Overview/Mechanics/To-Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To-Do"
+            }
+          },
+          {
+            "id": "69808d1fa50243fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Overview/Mechanics/Equipment Rules/Equipment Durability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Equipment Durability"
+            }
+          },
+          {
+            "id": "acdfd4fc474fec62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Overview/NPCs/Ragudo Division/Ragudo Salvet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ragudo Salvet"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f93b87fa02e75e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecd08d09509cf01a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91da5a5e7fd53206",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1bf75f3d8513fd50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53651314ad5b32b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b0e2d89852572e8a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "32bb605ec8e82b9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee7a71c29cd64392",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cde08a111864172",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Floor1"
+            }
+          },
+          {
+            "id": "e4bf3415f7aca860",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Floor1"
+            }
+          },
+          {
+            "id": "3f1f3728e847fad4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7bbb2ec4a16703d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaign Overview/Session Notes/Session 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 1"
+            }
+          },
+          {
+            "id": "ef413d0e6a9fbc71",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "adf12a29914a0b62",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b0e2d89852572e8a",
+  "lastOpenFiles": [
+    "DungeonOftheMadMage",
+    "Campaign Overview/Mechanics/Combat Systems/Pommel Strike and Bonus Actions.md",
+    "Campaign Overview/Mechanics/Equipment Rules/Equipment Durability.md",
+    "Campaign Overview/Mechanics/Combat Systems/Combat Systems.md",
+    "Campaign Overview/Mechanics/To-Do.md",
+    "Campaign Overview/Mechanics/Combat Systems/.md",
+    "Campaign Overview/NPCs/Ragudo Division/Ragudo Salvet.md",
+    "Campaign Overview/Mechanics/World Interaction/World Interaction.md",
+    "Campaign Overview/Mechanics/World Interaction",
+    "Campaign Overview/Mechanics/Magic Systems/Magic Systems.md",
+    "Campaign Overview/Mechanics/Magic Systems",
+    "Campaign Overview/Mechanics/Equipment Rules/Equipment Rules.md",
+    "Campaign Overview/Mechanics/Equipment Rules",
+    "Campaign Overview/Mechanics/Combat Systems",
+    "Campaign Overview/Mechanics/Downtime Activities/Downtime Activities.md",
+    "Campaign Overview/Mechanics/Downtime Activities",
+    "Campaign Overview/Campaign Overview.md",
+    "Vault.md",
+    "Tags",
+    "Campaign Overview/Mechanics/Character Development",
+    "Campaign Overview/Mechanics/Core Mechanics",
+    "Campaign Overview/Mechanics/Combat",
+    "Campaign Overview/Mechanics/Downtime",
+    "Untitled.canvas",
+    "Campaign Overview/NPCs/Template.md",
+    "Campaign Overview/Enemies/Template.md",
+    "Campaign Overview/NPCs/Ragudo Division/Officer Kim.md",
+    "Campaign Overview/World And Factions/Ragudo Division.md",
+    "Campaign Overview/Player Notes & Session Logs/Session 1.md",
+    "Campaign Overview/Session Notes/Session 1.md",
+    "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Battle Without Dawn - Lore and Overview.md",
+    "Campaign Overview/Events/Silly Events/(Quest) A Most Unfortunate Loss.md",
+    "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor2.md",
+    "Campaign Overview/Enemies/Sorrowborn of the Depths.md",
+    "Campaign Overview/Enemies/Lady Valthris, Warden of Eternal Suffering.md",
+    "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1.md",
+    "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor3.md",
+    "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1DungeonScrawl.png",
+    "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Untitled.canvas"
+  ]
+}
