@@ -40,10 +40,10 @@
   "expandedSpaces": [
     "//Excalidraw",
     "/",
-    "//Campaign Overview",
     "//Campaign Overview/Campaign Overview/Mechanics",
     "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Combat Systems",
-    "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Equipment Rules"
+    "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Equipment Rules",
+    "//Campaign Overview"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
