@@ -25,12 +25,14 @@
             "id": "69808d1fa50243fe",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Dungeon Of The Mad Mage"
+              "title": "Untitled"
             }
           },
           {
@@ -229,8 +231,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a7fc2c1a3c64a8e",
+  "active": "69808d1fa50243fe",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Test. Commited from mobile.md",
     "Vault.md",
     "Campaign Overview/Mechanics/Equipment Rules/Equipment Durability.md",
     "DungeonOftheMadMage",
@@ -266,7 +270,6 @@
     "Campaign Overview/Enemies/Sorrowborn of the Depths.md",
     "Campaign Overview/Enemies/Lady Valthris, Warden of Eternal Suffering.md",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1.md",
-    "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor3.md",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1DungeonScrawl.png",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Untitled.canvas"
   ]
