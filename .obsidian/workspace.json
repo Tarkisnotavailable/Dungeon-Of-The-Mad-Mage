@@ -25,14 +25,12 @@
             "id": "69808d1fa50243fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "path": "Campaign Overview/Mechanics/Magic Systems"
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Magic Systems"
             }
           },
           {
@@ -104,7 +102,7 @@
             }
           },
           {
-            "id": "b0e2d89852572e8a",
+            "id": "296d7cf4de64d40a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -231,9 +229,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69808d1fa50243fe",
+  "active": "296d7cf4de64d40a",
   "lastOpenFiles": [
+    "Campaign Overview/Mechanics/Magic Systems/Magic Systems.md",
+    "Campaign Overview/Player Notes & Session Logs/Session 1.md",
+    "Campaign Overview/Player Notes & Session Logs/Untitled.md",
+    "Campaign Overview/Undermountain/Patch notes.md",
+    "Test. Commited from PC.md",
+    "Campaign Overview/Undermountain/Undermountain.md",
+    "Campaign Overview/Undermountain",
     "Untitled.md",
+    "Campaign Overview/Untitled.md",
     "Test. Commited from mobile.md",
     "Vault.md",
     "Campaign Overview/Mechanics/Equipment Rules/Equipment Durability.md",
@@ -245,7 +251,6 @@
     "Campaign Overview/NPCs/Ragudo Division/Ragudo Salvet.md",
     "Campaign Overview/Mechanics/World Interaction/World Interaction.md",
     "Campaign Overview/Mechanics/World Interaction",
-    "Campaign Overview/Mechanics/Magic Systems/Magic Systems.md",
     "Campaign Overview/Mechanics/Magic Systems",
     "Campaign Overview/Mechanics/Equipment Rules/Equipment Rules.md",
     "Campaign Overview/Mechanics/Equipment Rules",
@@ -256,20 +261,13 @@
     "Tags",
     "Campaign Overview/Mechanics/Character Development",
     "Campaign Overview/Mechanics/Core Mechanics",
-    "Campaign Overview/Mechanics/Combat",
     "Untitled.canvas",
     "Campaign Overview/NPCs/Template.md",
     "Campaign Overview/Enemies/Template.md",
     "Campaign Overview/NPCs/Ragudo Division/Officer Kim.md",
     "Campaign Overview/World And Factions/Ragudo Division.md",
-    "Campaign Overview/Player Notes & Session Logs/Session 1.md",
     "Campaign Overview/Session Notes/Session 1.md",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Battle Without Dawn - Lore and Overview.md",
-    "Campaign Overview/Events/Silly Events/(Quest) A Most Unfortunate Loss.md",
-    "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor2.md",
-    "Campaign Overview/Enemies/Sorrowborn of the Depths.md",
-    "Campaign Overview/Enemies/Lady Valthris, Warden of Eternal Suffering.md",
-    "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1.md",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1DungeonScrawl.png",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Untitled.canvas"
   ]

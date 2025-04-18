@@ -1,0 +1,1 @@
+These will be announced in-game as the creator of this dungeon Mavi became really silly over the years. They will come as patch notes.

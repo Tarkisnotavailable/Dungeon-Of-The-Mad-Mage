@@ -40,10 +40,13 @@
   "expandedSpaces": [
     "//Excalidraw",
     "/",
-    "//Campaign Overview/Campaign Overview/Mechanics",
     "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Combat Systems",
     "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Equipment Rules",
-    "//Campaign Overview"
+    "//Campaign Overview",
+    "//Campaign Overview/Campaign Overview/Dungeons and Encounters",
+    "//Campaign Overview/Campaign Overview/Undermountain",
+    "//Campaign Overview/Campaign Overview/Player Notes & Session Logs",
+    "//Campaign Overview/Campaign Overview/Mechanics"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
