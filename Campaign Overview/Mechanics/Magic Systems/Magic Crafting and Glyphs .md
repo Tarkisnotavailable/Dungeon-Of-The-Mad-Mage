@@ -1,0 +1,7 @@
+### Introduction
+I find the current spell system quite uncreative and too set in stone. Even though it makes management easier it is too limiting. So I would like to introduce Glyphs and Magic Crafting. In addition to the current spell system, crafting magic by combining pre-prepared Glyphs will be available too. 
+
+---
+
+### Magic Craft Explanation
+When crafting a spell one would require to use at least 2 Glyphs. One trigger and one effect. Once the conditions of the trigger are met the spell will take effect (ie. Touch for trigger, produce flame for effect). These Glyphs can be further enhanced by modifications (ie. Adding a filter to trigger so it only activates when a human touches it, enhancing the spells size and effect). Each glyph has a level and cannot be used unless its creator or user has spell slots corresponding to the glyphs level. Glyphs requires to be learned before it can be used. Finding a glyph, understanding how it works, practicing and optionally memorizing the glyph, after all of this a glyph can be used in Magic Craft. Magic Craft cannot be done mid combat, requiring proper work and time. Glyphs has material requirements and should be provided to finalize a spell. Once Magic Craft is complete it can be noted down to be replicated.

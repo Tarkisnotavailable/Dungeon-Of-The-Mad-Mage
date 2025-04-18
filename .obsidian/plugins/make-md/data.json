@@ -40,10 +40,15 @@
   "expandedSpaces": [
     "//Excalidraw",
     "/",
-    "//Campaign Overview/Campaign Overview/Mechanics",
     "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Combat Systems",
     "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Equipment Rules",
-    "//Campaign Overview"
+    "//Campaign Overview",
+    "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Magic Systems",
+    "//Campaign Overview/Campaign Overview/Dungeons and Encounters",
+    "//Campaign Overview/Campaign Overview/Dungeons and Encounters/Campaign Overview/Dungeons and Encounters/Battle Without Dawn",
+    "//Campaign Overview/Campaign Overview/NPCs",
+    "//Campaign Overview/Campaign Overview/NPCs/Campaign Overview/NPCs/Ragudo Division",
+    "//Campaign Overview/Campaign Overview/World And Factions"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

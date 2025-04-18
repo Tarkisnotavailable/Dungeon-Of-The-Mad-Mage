@@ -1,7 +1,7 @@
 Ragudo Division, leaded by Captain Ragudo Salvet and consisted 11 of his subordinates and Officer Kim as their logistic help was the strongest knight division in the history of Waterdeep.
 List of Members:
 1. [[Ragudo Salvet]]: 
-2. Officer Kim: Friend of Ragudo ever since his early days as an adventurer. Continued supporting him even after he became a knight. He didn't have any capability to fight but his mind was sharp so he became an Officer to help Ragudo as a knight.
+2. [[Officer Kim]]:
 3. 
 4. 
 5. 
