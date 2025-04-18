@@ -38,15 +38,10 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Excalidraw",
-    "/",
-    "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Combat Systems",
-    "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Equipment Rules",
     "//Campaign Overview",
-    "//Campaign Overview/Campaign Overview/Dungeons and Encounters",
-    "//Campaign Overview/Campaign Overview/Undermountain",
+    "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Magic Systems",
     "//Campaign Overview/Campaign Overview/Player Notes & Session Logs",
-    "//Campaign Overview/Campaign Overview/Mechanics"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -58,8 +53,6 @@
     "_assets",
     "_blocks"
   ],
-  "newFileLocation": "root",
-  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
