@@ -1,4 +1,5 @@
-Place of [[Cult of the Abyss]] to generate cursed magic power and getting rid of people who has information about the Cult.
+~~Place of [[Cult of the Abyss]] to generate cursed magic power and getting rid of people who has information about the Cult~~.
+(**Rewrite this completely.**)
 
 *A place of torture for the [[Ragudo Division]]. After discovering the cooperation between an evil cult and the Lords of Waterdeep, they attempted to reveal the truth but were caught and sent here to suffer.* 
 

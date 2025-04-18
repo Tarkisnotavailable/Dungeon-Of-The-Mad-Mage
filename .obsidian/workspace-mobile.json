@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Overview/World And Factions/Ragudo Division.md",
+                "file": "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Battle Without Dawn - Lore and Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ragudo Division"
+              "title": "Battle Without Dawn - Lore and Overview"
             }
           }
         ]
@@ -86,7 +86,7 @@
         }
       },
       {
-        "id": "ec66be1030064cd2",
+        "id": "fb39c110152c16bb",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -195,13 +195,13 @@
   },
   "active": "51c756663fe6a302",
   "lastOpenFiles": [
-    "Campaign Overview/NPCs/Ragudo Division/Officer Kim.md",
+    "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1.md",
+    "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Battle Without Dawn - Lore and Overview.md",
     "Campaign Overview/World And Factions/Ragudo Division.md",
+    "Campaign Overview/NPCs/Ragudo Division/Officer Kim.md",
     "Campaign Overview/NPCs/Ragudo Division/Ragudo Salvet.md",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor2.md",
     "Campaign Overview/Dungeons and Encounters/Template for Rooms.md",
-    "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Battle Without Dawn - Lore and Overview.md",
-    "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1.md",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor3.md",
     "Campaign Overview/Mechanics/Magic Systems/Magic Crafting and Glyphs .md",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1DungeonScrawl.png",
