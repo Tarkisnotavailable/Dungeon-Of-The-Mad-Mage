@@ -1,0 +1,1 @@
+You do not need to bother with any of these aside from Campaign Overview part, all of my notes are stored inside it. Rest of the files and stuff are codes to make Obsidian work etc. so they are there bc they need to be.
