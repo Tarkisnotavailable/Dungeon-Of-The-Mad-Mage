@@ -1,8 +1,10 @@
 [
-  "calendar",
   "dataview",
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
   "make-md",
-  "obsidian-git"
+  "obsidian-git",
+  "calendarium",
+  "obsidian-5e-statblocks",
+  "obsidian-leaflet-plugin"
 ]

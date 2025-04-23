@@ -28,3 +28,11 @@ So let me write down what I want first.
 
 - [ ] Quests outside the town for occasional changes.
 
+- [ ] Heat metal needs clarification.
+
+- [ ] Flanking needs rebalancing.
+
+- [ ] Sneak attack rebalancing. 
+
+
+

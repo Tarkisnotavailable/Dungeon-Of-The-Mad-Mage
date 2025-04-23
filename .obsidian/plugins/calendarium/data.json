@@ -1,0 +1,204 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Potion Aging",
+      "description": "Keeping track of every potion. Their age and ID's.",
+      "id": "ID_6898c8dba9ba",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_5a6bc95a5b49"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_187ae87a6b0a"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_7be8592b7a4a"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_b92aa908f8cb"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_294ac859e95b"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_cbaa5909d83b"
+          },
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_0ad878196b38"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "January",
+            "length": 30,
+            "id": "ID_38182a0819f9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "February",
+            "length": 30,
+            "id": "ID_590a4a4bfb79",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "March",
+            "length": 30,
+            "id": "ID_3b994859e919",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "April",
+            "length": 30,
+            "id": "ID_ea7b49095968",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "May",
+            "length": 30,
+            "id": "ID_7b593b3b2a0a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "June",
+            "length": 30,
+            "id": "ID_da3be8789898",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "July",
+            "length": 30,
+            "id": "ID_e9d84be818f9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "August",
+            "length": 30,
+            "id": "ID_4ad9bb09796a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "September",
+            "length": 30,
+            "id": "ID_58598a2bd85a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "October",
+            "length": 30,
+            "id": "ID_6b8b783b8928",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "November",
+            "length": 30,
+            "id": "ID_9a0b5bba8b9b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "December",
+            "length": 30,
+            "id": "ID_094b59ebbbda",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "current": {
+        "day": 1,
+        "month": 0,
+        "year": 500
+      },
+      "events": [],
+      "categories": [
+        {
+          "id": "ID_3a086bba199b",
+          "color": "#cc414f",
+          "name": "Fresh"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_6898c8dba9ba",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

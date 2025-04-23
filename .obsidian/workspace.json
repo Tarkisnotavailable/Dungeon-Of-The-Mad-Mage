@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "877a4600589eb6d3",
+        "id": "57817d59f389df54",
         "type": "tabs",
         "children": [
           {
-            "id": "e2174f76c9ab1030",
+            "id": "c3bbc772f8d3457c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Campaign Overview/Mechanics/To-Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "To-Do"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "3d471dbd801d3157",
+            "id": "a04ba9eb2507e8b3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -163,16 +163,6 @@
             }
           },
           {
-            "id": "ef413d0e6a9fbc71",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "7a7fc2c1a3c64a8e",
             "type": "leaf",
             "state": {
@@ -181,9 +171,85 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "1c351a6567ed65cd",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "4aca2f3d5b34c61d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "b905846cb9cd2572",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "d978599ecf34db1d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_6898c8dba9ba",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 500
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 500
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                },
+                "id": "ID_3b4939aa2b0a",
+                "child": "ID_285ad9d8f8e9"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "c39f9af64c0cab50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80742b02b6d34c7c",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_6898c8dba9ba",
+                "id": "ID_285ad9d8f8e9",
+                "parent": "ID_3b4939aa2b0a"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,48 +265,51 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e2174f76c9ab1030",
+  "active": "c3bbc772f8d3457c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Campaign Overview/Player Notes & Session Logs/Session 1.md",
-    "Campaign Overview/To-Do List.md",
+    "Campaign Overview/Potions/Testing Potion 1.md",
     "Campaign Overview/Campaign Overview.md",
-    "Campaign Overview/Mechanics/To-Do.md",
-    "Vault.md",
-    "Campaign Overview/Mechanics/Magic Systems/Magic Crafting and Glyphs .md",
-    "Campaign Overview/Mechanics/Magic Systems/Magic Systems.md",
-    "Campaign Overview/Player Notes & Session Logs/Untitled.md",
+    "Campaign Overview/Potions/Potions.md",
     "Campaign Overview/Undermountain/Patch notes.md",
-    "Test. Commited from PC.md",
-    "Campaign Overview/Undermountain/Undermountain.md",
-    "Campaign Overview/Undermountain",
-    "Untitled.md",
+    "Campaign Overview/Spells/Spells.md",
     "Campaign Overview/Untitled.md",
-    "Test. Commited from mobile.md",
-    "Campaign Overview/Mechanics/Equipment Rules/Equipment Durability.md",
+    "Campaign Overview/Dungeons and Encounters/Dungeons and Encounters.md",
+    "Campaign Overview/NPCs/NPCs.md",
+    "Campaign Overview/Events/Events.md",
+    "Campaign Overview/World And Factions/World And Factions.md",
+    "Campaign Overview/Enemies/Enemies.md",
+    "Campaign Overview/Magic Items/Magic Items.md",
+    "Campaign Overview/Lore and Mysteries/Lore and Mysteries.md",
+    "Campaign Overview/Player Notes & Session Logs/Player Notes & Session Logs.md",
+    "Campaign Overview/Potions",
+    "Campaign Overview/Calendar/Potions Aging/Potions Aging.md",
+    "Campaign Overview/Calendar/Potions Aging",
+    "Campaign Overview/Calendar/In-Game Data/In-Game Data.md",
+    "Campaign Overview/Calendar/In-Game Data",
+    "Campaign Overview/Calendar/Calendar.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncraft.md",
+    "Campaign Overview/Calendar",
+    "Campaign Overview/Mechanics/Crafting/Crafting.md",
+    "Campaign Overview/Mechanics/Crafting/Foraging.md",
+    "Campaign Overview/Mechanics/To-Do.md",
+    "Campaign Overview/Mechanics/Crafting",
+    "Campaign Overview/Mechanics/Downtime Activities/Untitled.md",
+    "Campaign Overview/Mechanics/Untitled.md",
+    "Campaign Overview/Mechanics/Craf.md",
+    "Campaign Overview/Enemies/Lady Valthris, Warden of Eternal Suffering.md",
+    "Campaign Overview/Enemies/Shadow.md",
+    "Campaign Overview/Undermountain",
     "DungeonOftheMadMage",
-    "Campaign Overview/Mechanics/Combat Systems/Pommel Strike and Bonus Actions.md",
-    "Campaign Overview/Mechanics/Combat Systems/Combat Systems.md",
-    "Campaign Overview/Mechanics/Combat Systems/.md",
-    "Campaign Overview/NPCs/Ragudo Division/Ragudo Salvet.md",
-    "Campaign Overview/Mechanics/World Interaction/World Interaction.md",
     "Campaign Overview/Mechanics/World Interaction",
     "Campaign Overview/Mechanics/Magic Systems",
-    "Campaign Overview/Mechanics/Equipment Rules/Equipment Rules.md",
     "Campaign Overview/Mechanics/Equipment Rules",
-    "Campaign Overview/Mechanics/Combat Systems",
-    "Campaign Overview/Mechanics/Downtime Activities/Downtime Activities.md",
-    "Campaign Overview/Mechanics/Downtime Activities",
-    "Tags",
-    "Campaign Overview/Mechanics/Character Development",
-    "Campaign Overview/Mechanics/Core Mechanics",
     "Untitled.canvas",
-    "Campaign Overview/NPCs/Template.md",
-    "Campaign Overview/Enemies/Template.md",
-    "Campaign Overview/NPCs/Ragudo Division/Officer Kim.md",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1DungeonScrawl.png",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Untitled.canvas"
   ]
