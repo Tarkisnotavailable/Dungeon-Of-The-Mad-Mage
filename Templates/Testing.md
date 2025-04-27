@@ -1,0 +1,3 @@
+<%*
+tp.user.AdvanceDay(tp);
+%>

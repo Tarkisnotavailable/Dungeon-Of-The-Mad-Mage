@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Overview/Mechanics/To-Do.md",
+                "file": "Code tester.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-Do"
+              "title": "Code tester"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "a04ba9eb2507e8b3",
+            "id": "45c98e8b5dd8bc4a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Overview/Session Notes/Session 1.md",
+                "file": "Templates/AdvanceDay.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 1"
+              "title": "Outline of AdvanceDay"
             }
           },
           {
@@ -173,34 +173,7 @@
             }
           },
           {
-            "id": "1c351a6567ed65cd",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "4aca2f3d5b34c61d",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "b905846cb9cd2572",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "d978599ecf34db1d",
+            "id": "01e9a49b31bbb36e",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -221,8 +194,8 @@
                   "displayDayNumber": true,
                   "displayMoons": true
                 },
-                "id": "ID_3b4939aa2b0a",
-                "child": "ID_285ad9d8f8e9"
+                "id": "ID_6b0bb88a58bb",
+                "child": "ID_cacad9c8c9db"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -232,18 +205,18 @@
         "currentTab": 4
       },
       {
-        "id": "c39f9af64c0cab50",
+        "id": "674fb56f9e1e7de1",
         "type": "tabs",
         "children": [
           {
-            "id": "80742b02b6d34c7c",
+            "id": "e4cb125f27a40f7f",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_6898c8dba9ba",
-                "id": "ID_285ad9d8f8e9",
-                "parent": "ID_3b4939aa2b0a"
+                "id": "ID_cacad9c8c9db",
+                "parent": "ID_6b0bb88a58bb"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -266,16 +239,41 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "c3bbc772f8d3457c",
+  "active": "7a7fc2c1a3c64a8e",
   "lastOpenFiles": [
-    "Campaign Overview/Potions/Testing Potion 1.md",
-    "Campaign Overview/Campaign Overview.md",
+    "Templates/CurrentDate.md",
+    "Code tester.md",
+    "Scripts/Script.md",
+    "Templates/Testing.md",
+    "2025-04-24.md",
+    "Campaign Overview/Potions/test.md",
+    "Templates/UpdateTime.md",
+    "Scripts/UpdateTime.js",
+    "Scripts/UpdateTime.js.txt",
+    "Scripts/Yeni Metin Belgesi.txt",
+    "Scripts/AdvanceDay.js",
+    "Scripts",
+    "Script/Script.md",
+    "Script",
+    "Templates/AdvanceDay.md",
+    "Campaign Overview/Mechanics/Mechanics.md",
+    "Test. Commited from mobile.md",
+    "Templates/Scripts/AdvanceDay.js",
+    "Templates/Scripts/Yeni Metin Belgesi.txt",
+    "Templates/Scripts/Scripts.md",
+    "Templates/Scripts",
+    "Templates/Advance_Day/Advance_Day.md",
+    "Templates/Advance_Day",
+    "Templates/Templates.md",
     "Campaign Overview/Potions/Potions.md",
+    "Campaign Overview/Campaign Overview.md",
+    "Campaign Overview/Mechanics/To-Do.md",
+    "Campaign Overview/Potions/Testing Potion 1.md",
     "Campaign Overview/Undermountain/Patch notes.md",
     "Campaign Overview/Spells/Spells.md",
     "Campaign Overview/Untitled.md",
@@ -283,32 +281,6 @@
     "Campaign Overview/NPCs/NPCs.md",
     "Campaign Overview/Events/Events.md",
     "Campaign Overview/World And Factions/World And Factions.md",
-    "Campaign Overview/Enemies/Enemies.md",
-    "Campaign Overview/Magic Items/Magic Items.md",
-    "Campaign Overview/Lore and Mysteries/Lore and Mysteries.md",
-    "Campaign Overview/Player Notes & Session Logs/Player Notes & Session Logs.md",
-    "Campaign Overview/Potions",
-    "Campaign Overview/Calendar/Potions Aging/Potions Aging.md",
-    "Campaign Overview/Calendar/Potions Aging",
-    "Campaign Overview/Calendar/In-Game Data/In-Game Data.md",
-    "Campaign Overview/Calendar/In-Game Data",
-    "Campaign Overview/Calendar/Calendar.md",
-    "Campaign Overview/Mechanics/Crafting/Potioncraft.md",
-    "Campaign Overview/Calendar",
-    "Campaign Overview/Mechanics/Crafting/Crafting.md",
-    "Campaign Overview/Mechanics/Crafting/Foraging.md",
-    "Campaign Overview/Mechanics/To-Do.md",
-    "Campaign Overview/Mechanics/Crafting",
-    "Campaign Overview/Mechanics/Downtime Activities/Untitled.md",
-    "Campaign Overview/Mechanics/Untitled.md",
-    "Campaign Overview/Mechanics/Craf.md",
-    "Campaign Overview/Enemies/Lady Valthris, Warden of Eternal Suffering.md",
-    "Campaign Overview/Enemies/Shadow.md",
-    "Campaign Overview/Undermountain",
-    "DungeonOftheMadMage",
-    "Campaign Overview/Mechanics/World Interaction",
-    "Campaign Overview/Mechanics/Magic Systems",
-    "Campaign Overview/Mechanics/Equipment Rules",
     "Untitled.canvas",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1DungeonScrawl.png",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Untitled.canvas"

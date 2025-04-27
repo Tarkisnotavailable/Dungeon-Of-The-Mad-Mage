@@ -38,7 +38,6 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Campaign Overview",
     "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Magic Systems",
     "/",
     "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Character Development",
@@ -46,7 +45,16 @@
     "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Crafting",
     "//Campaign Overview/Campaign Overview/Calendar",
     "//Campaign Overview/Campaign Overview/Calendar/Campaign Overview/Calendar/Potions",
-    "//Campaign Overview/Campaign Overview/Potions"
+    "//Templates/Templates/AdvanceDay",
+    "//Templates/Templates/Advance Day",
+    "//Templates/Templates/Advance_Day",
+    "//Templates/Templates/Scripts",
+    "//Campaign Overview/Campaign Overview/Potions",
+    "//Script",
+    "//Templates",
+    "//Tags",
+    "//Scripts",
+    "//Campaign Overview"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
