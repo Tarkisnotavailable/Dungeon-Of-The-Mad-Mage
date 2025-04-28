@@ -54,7 +54,8 @@
     "//Templates",
     "//Tags",
     "//Scripts",
-    "//Campaign Overview"
+    "//Campaign Overview",
+    "//Campaign Overview/Campaign Overview/Mechanics"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

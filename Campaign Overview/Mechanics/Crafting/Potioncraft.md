@@ -4,13 +4,28 @@ A deep, modular alchemy system designed for exploration, experimentation, and re
 
 ## Core Components
 #### 🔹**Catalyst:**
-A substance that defines the _form_, _theme_, or _nature_ of the potion (e.g., elixir, oil, gas). Catalysts influence **how** the potion behaves and how it is administered. Some catalysts may also interact elementally.
+##### Role:
+- Defines the form (e.g., drinkable, applied to skin, inhaled, crushed, etc.)
+- Boost the effect or change the nature of the reagent.
+- Modify aging time of the reagent
+- Add special properties to the final product.
+##### Properties:
+- **Substance Type**: Determine how the potion can be applied. (Drink, Touch, Injection, Vapor, etc.)
+- **Effect Boost**: Increase the effect of the reagent. (Duration, power, area, etc.)
+- **Aging Modifier**: Modifies the reagents aging properties. (Increase/Decrease each aging stage seperately by a flat amount or multiply it.)
+~~A substance that defines the _form_, _theme_, or _nature_ of the potion (e.g., elixir, oil, gas). Catalysts influence **how** the potion behaves and how it is administered. Some catalysts may also interact elementally.~~
 **Examples:**
 - Dragon Saliva – boosts potency, adds fire element
 - Spiritvine Sap – turns potion into a gas
 - Moonshade Oil – makes the potion persistent over time
 #### 🔸**Reagent:**
-Defines the **effect** or **purpose** of the potion. These are gathered from flora, fauna, minerals, or magical sources.
+##### Role:
+- Determine the main effect (Healing, Poison, Sleep, Strength, Illusion, etc.)
+- Have an intrinsic aging phases (in days)
+##### Properties:
+- Effect: (What the potion does)
+- Base Aging Phases:
+~~Defines the **effect** or **purpose** of the potion. These are gathered from flora, fauna, minerals, or magical sources.~~
 Examples:
 - Fireroot – offensive fire effect
 - Chillcap – ice resistance
