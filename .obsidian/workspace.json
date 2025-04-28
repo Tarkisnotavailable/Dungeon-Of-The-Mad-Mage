@@ -11,14 +11,12 @@
             "id": "c3bbc772f8d3457c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Code tester.md",
-                "mode": "source",
-                "source": false
+                "path": "Campaign Overview/Mechanics/Crafting/Potioncrafting"
               },
               "icon": "lucide-file",
-              "title": "Code tester"
+              "title": "Potioncrafting"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "45c98e8b5dd8bc4a",
+            "id": "5bbb140005e82cff",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -244,10 +242,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7a7fc2c1a3c64a8e",
+  "active": "4085fe9977d9542a",
   "lastOpenFiles": [
-    "Templates/CurrentDate.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Potioncrafting.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Brewing Rules.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Enviromental Factors.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Containers.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Brewing Stations.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Magical Tools for Brewing.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncraft/Potioncraft.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting",
+    "Campaign Overview/Mechanics/Crafting/Potioncraft/Old/Old.md",
+    "Campaign Overview/Mechanics/Crafting/Foraging.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncraft/Old",
+    "Campaign Overview/Mechanics/Crafting/Potioncraft",
     "Code tester.md",
+    "Templates/CurrentDate.md",
     "Scripts/Script.md",
     "Templates/Testing.md",
     "2025-04-24.md",
@@ -264,23 +274,12 @@
     "Campaign Overview/Mechanics/Mechanics.md",
     "Test. Commited from mobile.md",
     "Templates/Scripts/AdvanceDay.js",
-    "Templates/Scripts/Yeni Metin Belgesi.txt",
     "Templates/Scripts/Scripts.md",
-    "Templates/Scripts",
     "Templates/Advance_Day/Advance_Day.md",
-    "Templates/Advance_Day",
     "Templates/Templates.md",
     "Campaign Overview/Potions/Potions.md",
     "Campaign Overview/Campaign Overview.md",
     "Campaign Overview/Mechanics/To-Do.md",
-    "Campaign Overview/Potions/Testing Potion 1.md",
-    "Campaign Overview/Undermountain/Patch notes.md",
-    "Campaign Overview/Spells/Spells.md",
-    "Campaign Overview/Untitled.md",
-    "Campaign Overview/Dungeons and Encounters/Dungeons and Encounters.md",
-    "Campaign Overview/NPCs/NPCs.md",
-    "Campaign Overview/Events/Events.md",
-    "Campaign Overview/World And Factions/World And Factions.md",
     "Untitled.canvas",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1DungeonScrawl.png",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Untitled.canvas"

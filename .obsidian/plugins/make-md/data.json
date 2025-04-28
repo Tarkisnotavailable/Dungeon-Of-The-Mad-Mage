@@ -55,13 +55,20 @@
     "//Tags",
     "//Scripts",
     "//Campaign Overview",
-    "//Campaign Overview/Campaign Overview/Mechanics"
+    "//Campaign Overview/Campaign Overview/Mechanics",
+    "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Crafting/Campaign Overview/Mechanics/Crafting/Potioncraft/Campaign Overview/Mechanics/Crafting/Potioncraft/Old",
+    "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Crafting/Campaign Overview/Mechanics/Crafting/Potioncraft/Campaign Overview/Mechanics/Crafting/Potioncraft/General Rules of Potioncrafting",
+    "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Crafting/Campaign Overview/Mechanics/Crafting/Potioncraft",
+    "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Crafting/Campaign Overview/Mechanics/Crafting/General Rules of Potioncrafting",
+    "//Campaign Overview/Campaign Overview/Mechanics/Campaign Overview/Mechanics/Crafting/Campaign Overview/Mechanics/Crafting/Potioncrafting"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "Campaign Overview/Mechanics/Crafting/Potioncraft/Old"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
