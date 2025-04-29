@@ -67,7 +67,8 @@
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
   "hiddenFiles": [
-    "Campaign Overview/Mechanics/Crafting/Potioncraft/Old"
+    "Campaign Overview/Mechanics/Crafting/Potioncraft/Old",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Potioncrafting Base Rules.md"
   ],
   "hiddenExtensions": [
     ".mdb",

@@ -11,12 +11,14 @@
             "id": "c3bbc772f8d3457c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Campaign Overview/Mechanics/Crafting/Potioncrafting"
+                "file": "Campaign Overview/Mechanics/Crafting/Potioncrafting/Brewing Rules.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Potioncrafting"
+              "title": "Brewing Rules"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "5bbb140005e82cff",
+            "id": "1efb8ceeb6e69376",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -242,13 +244,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4085fe9977d9542a",
+  "active": "c3bbc772f8d3457c",
   "lastOpenFiles": [
-    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Potioncrafting.md",
-    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Brewing Rules.md",
-    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Enviromental Factors.md",
-    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Containers.md",
     "Campaign Overview/Mechanics/Crafting/Potioncrafting/Brewing Stations.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Brewing Rules.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Potioncrafting Base Rules.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Potioncrafting.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Containers.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Enviromental Factors.md",
     "Campaign Overview/Mechanics/Crafting/Potioncrafting/Magical Tools for Brewing.md",
     "Campaign Overview/Mechanics/Crafting/Potioncraft/Potioncraft.md",
     "Campaign Overview/Mechanics/Crafting/Potioncrafting",
@@ -279,7 +282,6 @@
     "Templates/Templates.md",
     "Campaign Overview/Potions/Potions.md",
     "Campaign Overview/Campaign Overview.md",
-    "Campaign Overview/Mechanics/To-Do.md",
     "Untitled.canvas",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1DungeonScrawl.png",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Untitled.canvas"
