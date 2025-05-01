@@ -100,3 +100,5 @@ Each brewing station is defined by a set of stats that determine its capabilitie
 ### Themes (Preliminary Concept)
 
 Stations may have themes (e.g., Infernal, Verdant, Alchemical, Clockwork) that influence which ingredients or recipes synergize well. These will be fleshed out later and tied to potion flavor and specialization paths.
+
+Test
