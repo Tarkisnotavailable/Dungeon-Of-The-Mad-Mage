@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Overview/Mechanics/Crafting/Potioncraft.md",
+                "file": "Campaign Overview/Mechanics/Crafting/Potioncrafting/Brewing Stations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potioncraft"
+              "title": "Brewing Stations"
             }
           }
         ]
@@ -86,7 +86,7 @@
         }
       },
       {
-        "id": "2ff1cae5292e34b9",
+        "id": "e9f8e1399230aeae",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -198,6 +198,10 @@
   },
   "active": "51c756663fe6a302",
   "lastOpenFiles": [
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Brewing Stations.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Brewing Rules.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Potioncrafting Base Rules.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Potioncrafting.md",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Battle Without Dawn - Lore and Overview.md",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1.md",
     "Campaign Overview/World And Factions/Ragudo Division.md",
