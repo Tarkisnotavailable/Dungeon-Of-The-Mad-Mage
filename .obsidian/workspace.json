@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Overview/Mechanics/Crafting/Potioncrafting/Brewing Rules.md",
+                "file": "Campaign Overview/Mechanics/Crafting/Potioncrafting/Progress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brewing Rules"
+              "title": "Progress"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "1efb8ceeb6e69376",
+            "id": "16ef53aade5a83d6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -246,13 +246,21 @@
   },
   "active": "c3bbc772f8d3457c",
   "lastOpenFiles": [
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Progress.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Containers/Containers Materials/Containers Materials.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Containers/Containers.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Containers/Container Add-On's.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Containers/Container Tags.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Containers/Container Shapes/Container Shapes.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Containers/Container Shapes",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Containers/Containers Materials",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Containers",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Magical Tools Aids (MTA) for Brewing.md",
     "Campaign Overview/Mechanics/Crafting/Potioncrafting/Brewing Stations.md",
     "Campaign Overview/Mechanics/Crafting/Potioncrafting/Brewing Rules.md",
+    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Enviromental Factors.md",
     "Campaign Overview/Mechanics/Crafting/Potioncrafting/Potioncrafting Base Rules.md",
     "Campaign Overview/Mechanics/Crafting/Potioncrafting/Potioncrafting.md",
-    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Containers.md",
-    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Enviromental Factors.md",
-    "Campaign Overview/Mechanics/Crafting/Potioncrafting/Magical Tools for Brewing.md",
     "Campaign Overview/Mechanics/Crafting/Potioncraft/Potioncraft.md",
     "Campaign Overview/Mechanics/Crafting/Potioncrafting",
     "Campaign Overview/Mechanics/Crafting/Potioncraft/Old/Old.md",
@@ -270,18 +278,10 @@
     "Scripts/UpdateTime.js.txt",
     "Scripts/Yeni Metin Belgesi.txt",
     "Scripts/AdvanceDay.js",
-    "Scripts",
     "Script/Script.md",
-    "Script",
     "Templates/AdvanceDay.md",
     "Campaign Overview/Mechanics/Mechanics.md",
     "Test. Commited from mobile.md",
-    "Templates/Scripts/AdvanceDay.js",
-    "Templates/Scripts/Scripts.md",
-    "Templates/Advance_Day/Advance_Day.md",
-    "Templates/Templates.md",
-    "Campaign Overview/Potions/Potions.md",
-    "Campaign Overview/Campaign Overview.md",
     "Untitled.canvas",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Floor1DungeonScrawl.png",
     "Campaign Overview/Dungeons and Encounters/Battle Without Dawn/Untitled.canvas"

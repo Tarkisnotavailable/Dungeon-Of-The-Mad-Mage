@@ -1,6 +1,7 @@
 A deep, modular alchemy system designed for exploration, experimentation, and mastery. Brewing combines **catalysts**, **reagents**, and **tools** at various **stations** to produce potions with distinct effects and behaviors. Outcomes depend on **player skill**, **brewing tier**, **ingredient interaction**, and **external modifiers**.
 
 ---
+
 ## Core Brewing Process
 
 Brewing a potion requires **three components**:  
@@ -46,6 +47,7 @@ Each step must be carefully handled, and mistakes can lead to failed brews or ev
     - Successfully brewed potions should be labeled. Unlabeled or misidentified potions may cause unintended effects.
 
 ---
+
 ## Ingredient Types
 
 |Type|Purpose|Required?|Affects DC?|
@@ -62,6 +64,7 @@ Each step must be carefully handled, and mistakes can lead to failed brews or ev
 	✦ Additives are listed with specific properties and notes in the Ingredient Index.
 
 ---
+
 ## Brewing Tier, Mastery & Station Table
 
 The **Catalyst** determines the **Potion Tier**, which sets the brewing complexity and requirements:
@@ -79,6 +82,7 @@ The **Catalyst** determines the **Potion Tier**, which sets the brewing complexi
 - **Station Tier** reflects the sophistication of your alchemical lab setup.
 - **Brewing Time** is for a single potion. Batch production may increase time (see Mass Production).
 ---
+
 ## Crafting Check
 
 To brew a potion, roll a **Crafting Check**:
@@ -99,6 +103,7 @@ To brew a potion, roll a **Crafting Check**:
 - **Additives may increase or reduce** the DC depending on complexity or stabilizing effects.
 - Some brews may require additional conditions (see below).
 ---
+
 ## Special Requirements
 
 Certain ingredients or combinations may have **external conditions**:
@@ -111,6 +116,7 @@ Certain ingredients or combinations may have **external conditions**:
 These are listed per ingredient and must be satisfied before brewing.
 
 ---
+
 ## Mishaps
 
 When a potion **fails critically**, it causes unexpected results. Mishaps are **tier-specific** and **reagent-specific**, and the base mishap table is being expanded into its own modular system. For now, see the **Mishap Table (General)** file or relevant **Reagent File** for mishap effects.
@@ -124,6 +130,7 @@ If your Crafting Check fails by a margin or due to conflicting ingredients:
 - Certain Additives or Mastery levels may **reduce the chance** or severity of mishaps
 
 ---
+
 ## Mass Production 
 
 When crafting **Tier 1–3** potions, if your setup exceeds the minimum requirements:
@@ -137,6 +144,7 @@ When crafting **Tier 1–3** potions, if your setup exceeds the minimum requirem
 - Only available with **Adept+ Mastery**
 
 ---
+
 ## Skill Challenges (Optional, Advanced)
 
 Rare Reagents or high-stakes brews may require **skill challenges**:
@@ -148,6 +156,7 @@ Rare Reagents or high-stakes brews may require **skill challenges**:
 - Requires **Expert or Master-level Mastery**
 
 ---
+
 ## Brewing Time
 
 Brewing Time is determined primarily by the **Catalyst**, with further modifications from the **Reagent** and any **Additives** used. This system ensures that every potion’s brewing process is uniquely affected by its components.
@@ -158,7 +167,6 @@ Brewing Time is determined primarily by the **Catalyst**, with further modificat
     
 - **Additives** also apply minor modifiers (e.g., +5 minutes for a stabilizer, −5 minutes for a time-saving enhancer).
 
----
 ### Example:
 
 > A potion using a _Tier 2 Catalyst_ (Base Time: 1 hour), a _volatile Reagent_ (+15 min), and two Additives (−5 min and +5 min respectively) results in a **Total Brewing Time** of **1 hour and 15 minutes**.
@@ -173,6 +181,7 @@ Brewing Time is determined primarily by the **Catalyst**, with further modificat
 > 📌 _Note:_ Brewing Time applies to a **single dose**. Batch brewing (see _Mass Production_) increases this time proportionally and adds risk factors.
 
 ---
+
 ## Optional Modifiers
 
 Alchemists can experiment using additional optional mechanics:
@@ -183,6 +192,7 @@ Alchemists can experiment using additional optional mechanics:
 - **Custom Lab Scripts** – using enchanted scrolls or rituals to influence outcomes.
 
 ---
+
 ## Labeling and Identification
 
 Each finished potion should be assigned:
@@ -195,6 +205,7 @@ Each finished potion should be assigned:
 Players without alchemical training may require an **Identify Spell**, **Tasting**, or **Arcana/Medicine Check** to learn a potion’s effects if it lacks a clear label.
 
 ---
+
 ## Notes & Reminders
 
 - Not all brewing failures are disasters—some may lead to unexpected discoveries.
